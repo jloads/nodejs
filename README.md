@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Examples
 
-You can use the [editor on GitHub](https://github.com/jloads/nodejs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![License Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=true)](http://www.apache.org/licenses/LICENSE-2.0)
+[![gitter](https://badges.gitter.im/Join%20Chat.svg)][gitter]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![logo.jloads.com](https://logo.jloads.com/6/cover.png)
 
-### Markdown
+# [Biblioteka jLoads](https://docs.jloads.com/README.md)
++ jLoads oferuje streamowanie interfejsu aplikacji w natywnym JS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ jLoads wspiera natywne rozwiązania, ułatwia pracę z kodem zastanym (legacy code)
 
-```markdown
-Syntax highlighted code block
++ jLoads został stworzony dla programistów szukających prostych rozwiązań, by ułatwić modularyzację aplikacji
 
-# Header 1
-## Header 2
-### Header 3
++ jLoads wspiera proces refaktoryzacji, gdyż pozwala poprzez modularyzację ominięcie pułapek stojących za najnowszymi wersjami frameworków oraz troszczeniem się o ich aktualizacje.
 
-- Bulleted
-- List
++ Obecnie rozwiązanie jLoads dotyczy frontendu, ale trwają pracę nad wykorzystaniem NodeJS do wsparcia backendu.
 
-1. Numbered
-2. List
+## More ...
++ [All projects on github](https://github.com/jloads/)
++ [jLoads on github](https://github.com/jloads/get/)
++ [changelog.md](changelog.md)
 
-**Bold** and _Italic_ and `Code` text
+## How to use?
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jloads/nodejs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
